@@ -1,0 +1,5 @@
+--- 
+open_files: 
+  - app/views/bigbluebutton/servers/index.html.erb
+  - app/views/bigbluebutton/rooms/invite.html.erb
+  - app/views/bigbluebutton/rooms/_rooms.html.erb

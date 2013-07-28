@@ -1,0 +1,21 @@
+<%= simple_form_for(@profile) do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs">
+    <%= f.input :name %>
+    <%= f.input :age %>
+    <%= f.input :dob %>
+    <%= f.input :qualification %>
+    <%= f.input :rating %>
+    <%= f.input :skills %>
+    <%= f.input :about_video %>
+    <%= f.input :about_text %>
+    <%= f.input :interested_session %>
+    <%= f.input :offered_session %>
+    <%= f.input :profile_pic %>
+  </div>
+
+  <div class="form-actions">
+    <%= f.button :submit %>
+  </div>
+<% end %>

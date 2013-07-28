@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: app/views/bigbluebutton/servers/index.html.erb
+    :cursor_offset: 741
+    :timestamp: 2013-07-26 11:34:43 +05:30
+  - :path: app/views/bigbluebutton/rooms/invite.html.erb
+    :cursor_offset: 721
+    :timestamp: 2013-07-05 22:22:52 +05:30
+  - :path: app/views/bigbluebutton/rooms/_rooms.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-07-05 22:22:52 +05:30
+files_to_retain: 0

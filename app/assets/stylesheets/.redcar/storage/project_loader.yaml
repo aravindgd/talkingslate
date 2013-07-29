@@ -1,0 +1,7 @@
+--- 
+open_files: 
+  - profiles.css.scss
+  - scaffolds.css.scss
+  - foundation_and_overrides.scss
+  - conferences.css.scss
+  - home.css.scss

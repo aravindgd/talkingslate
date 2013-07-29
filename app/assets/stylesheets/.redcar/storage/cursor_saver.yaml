@@ -1,0 +1,18 @@
+--- 
+cursor_positions: 
+  - :path: profiles.css.scss
+    :cursor_offset: 0
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: scaffolds.css.scss
+    :cursor_offset: 3294
+    :timestamp: 2013-07-29 11:17:43 +05:30
+  - :path: foundation_and_overrides.scss
+    :cursor_offset: 0
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: conferences.css.scss
+    :cursor_offset: 0
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: home.css.scss
+    :cursor_offset: 314
+    :timestamp: 2013-07-28 21:58:09 +05:30
+files_to_retain: 0

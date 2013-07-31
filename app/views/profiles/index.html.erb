@@ -30,7 +30,7 @@
     <td><%= profile.about_text %></td>
     <td><%= profile.interested_session %></td>
     <td><%= profile.offered_session %></td>
-    <td><%= profile.profile_pic %></td>
+    <td><%= image_tag profile.profile_pic_url(:thumb).to_s %></td>
     <td><%= link_to 'Show', profile %></td>
     <td><%= link_to 'Edit', edit_profile_path(profile) %></td>
     <td><%= link_to 'Destroy', profile, method: :delete, data: { confirm: 'Are you sure?' } %></td>

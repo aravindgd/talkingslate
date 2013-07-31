@@ -1,4 +1,4 @@
-<%= simple_form_for(@profile) do |f| %>
+<%= simple_form_for(@profile, :html => {:multipart => true}) do |f| %>
   <%= f.error_notification %>
 
   <div class="form-inputs">
@@ -12,7 +12,8 @@
     <%= f.input :about_text %>
     <%= f.input :interested_session %>
     <%= f.input :offered_session %>
-    <%= f.input :profile_pic %>
+    <%= f.label :"Profile Picture" %>
+    <%= f.file_field :profile_pic %>
   </div>
 
   <div class="form-actions">

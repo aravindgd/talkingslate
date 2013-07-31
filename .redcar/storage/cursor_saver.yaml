@@ -1,12 +1,45 @@
 --- 
 cursor_positions: 
-  - :path: app/views/bigbluebutton/servers/index.html.erb
-    :cursor_offset: 741
-    :timestamp: 2013-07-26 11:34:43 +05:30
-  - :path: app/views/bigbluebutton/rooms/invite.html.erb
-    :cursor_offset: 721
-    :timestamp: 2013-07-05 22:22:52 +05:30
-  - :path: app/views/bigbluebutton/rooms/_rooms.html.erb
+  - :path: app/uploaders/profpic_uploader.rb
     :cursor_offset: 0
-    :timestamp: 2013-07-05 22:22:52 +05:30
+    :timestamp: 2013-07-29 20:18:26 +05:30
+  - :path: app/views/profiles/new.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: app/views/profiles/_form.html.erb
+    :cursor_offset: 413
+    :timestamp: 2013-07-29 20:54:03 +05:30
+  - :path: app/views/profiles/home_page.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: Gemfile
+    :cursor_offset: 395
+    :timestamp: 2013-07-29 18:39:34 +05:30
+  - :path: app/models/profile.rb
+    :cursor_offset: 271
+    :timestamp: 2013-07-29 20:45:59 +05:30
+  - :path: app/views/bigbluebutton/rooms/_rooms.html.erb
+    :cursor_offset: 2802
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: app/views/bigbluebutton/rooms/invite.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: app/views/bigbluebutton/servers/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: app/assets/stylesheets/profiles.css.scss
+    :cursor_offset: 179
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: app/assets/stylesheets/foundation_and_overrides.scss
+    :cursor_offset: 0
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: app/assets/stylesheets/scaffolds.css.scss
+    :cursor_offset: 0
+    :timestamp: 2013-07-29 11:17:43 +05:30
+  - :path: app/assets/stylesheets/application.css.scss
+    :cursor_offset: 578
+    :timestamp: 2013-07-28 21:58:09 +05:30
+  - :path: app/views/profiles/show.html.erb
+    :cursor_offset: 179
+    :timestamp: 2013-07-30 18:21:47 +05:30
 files_to_retain: 0

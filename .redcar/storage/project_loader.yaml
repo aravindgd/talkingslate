@@ -1,5 +1,9 @@
 --- 
 open_files: 
-  - app/views/bigbluebutton/servers/index.html.erb
-  - app/views/bigbluebutton/rooms/invite.html.erb
-  - app/views/bigbluebutton/rooms/_rooms.html.erb
+  - app/assets/stylesheets/custom.css.scss
+  - app/assets/stylesheets/application.css.scss
+  - app/assets/stylesheets/foundation_and_overrides.scss
+  - app/views/profiles/index.html.erb
+  - app/views/profiles/_form.html.erb
+  - app/views/profiles/show.html.erb
+  - app/assets/stylesheets/profiles.css.scss

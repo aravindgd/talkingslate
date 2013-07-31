@@ -1,4 +1,4 @@
-1375212349
+1375269275
 (?:I|they) click the first link in the email	/home/aravind/Documents/awdwrtut/ts/talkingslate/features/step_definitions/email_steps.rb	When /^(?:I|they) click the first link in the email$/ do
 (?:I|they) follow "([^"]*?)" in the email	/home/aravind/Documents/awdwrtut/ts/talkingslate/features/step_definitions/email_steps.rb	When /^(?:I|they) follow "([^"]*?)" in the email$/ do
 (?:I|they) should see "([^"]*?)" in the email body	/home/aravind/Documents/awdwrtut/ts/talkingslate/features/step_definitions/email_steps.rb	Then /^(?:I|they) should see "([^"]*?)" in the email body$/ do
